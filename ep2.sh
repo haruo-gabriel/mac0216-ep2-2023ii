@@ -18,9 +18,7 @@
 
 #set -x
 
-bot_url=https://api.telegram.org/bot6453136102:AAESQ5czUkEanwZrgCn7jvqHZJp9nwgXjuI
-token_id=6453136102:AAESQ5czUkEanwZrgCn7jvqHZJp9nwgXjuI
-chat_id=357179431
+
 inicio_tempo=$SECONDS
 
 #############################################
